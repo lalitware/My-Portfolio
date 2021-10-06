@@ -1,0 +1,12 @@
+    img {
+        border-radius: 100%;
+    }
+    body{
+        background-color: #95c5b9;
+    }
+    hr{
+        border-style: dotted none none;
+        border-width: 7px;
+        border-radius: 80px;
+        width: 30%;
+    }
